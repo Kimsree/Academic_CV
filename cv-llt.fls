@@ -423,6 +423,7 @@ INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufonta
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free1regular.tfm
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free1solid.tfm
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\inconsolata\t1zi4.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\inconsolata\t1zi4.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\inconsolata\t1zi4.fd
@@ -491,15 +492,15 @@ INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\impallari\cabin\Cab
 INPUT C:\Users\sreev\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cabin\cbn_i3ioen.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free1.enc
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cochineal\coch_mzvjrl.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\inconsolata\i4-t1-5.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands0.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cochineal\coch_mzvjrl.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free0.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Cochineal-Bold-osf-swash-t1.vf
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1--base.tfm

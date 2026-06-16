@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber cv-llt"] 1781611345.75025 "cv-llt.bcf" "cv-llt.bbl" "cv-llt" 1781613620.59691 0
-  "cv-llt.bcf" 1781613620 108549 8de253dfc6e9df4f4a298a4b02498c98 "pdflatex"
+["biber cv-llt"] 1781611345.75025 "cv-llt.bcf" "cv-llt.bbl" "cv-llt" 1781616706.14825 0
+  "cv-llt.bcf" 1781616705 108549 8de253dfc6e9df4f4a298a4b02498c98 "pdflatex"
   "own-bib.bib" 1781609001 1485 6c1f59f4f666b71e5915af63bc777fac ""
   (generated)
   "cv-llt.bbl"
   "cv-llt.blg"
   (rewritten before read)
-["pdflatex"] 1781613618.20547 "c:/Users/sreev/Downloads/Academic_CV/cv-llt.tex" "cv-llt.pdf" "cv-llt" 1781613620.59779 0
+["pdflatex"] 1781616703.76307 "c:/Users/sreev/Downloads/Academic_CV/cv-llt.tex" "cv-llt.pdf" "cv-llt" 1781616706.14924 0
   "C:/Users/sreev/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1781602411 150579 00aeb6d1c244dad3123442ab4bb30929 ""
   "C:/Users/sreev/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1714396058 24236006 bd3673d85495ff41f22d48418665b082 ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc" 1695673109 2809 947aec6f9801b5a045e999c93403fba2 ""
@@ -43,6 +43,7 @@
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1651500229 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/tfm/public/fontawesome5/fa5free0solid.tfm" 1651500229 1328 8843c76048ec1e1c4b2d1007558b8833 ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/tfm/public/fontawesome5/fa5free1regular.tfm" 1651500229 1204 3c27bf26105e0c1f2d31dba92f1c652d ""
+  "C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1651500229 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1651500229 1340 b21002f38a477f345fa9dc96a5613e2b ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/tfm/public/inconsolata/t1-zi4r-5.tfm" 1561076465 1328 f8b61ff3550039772f841ded0328c39a ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb" 1695673109 128058 739eaccce9e23dfcfd97449c74551d17 ""
@@ -255,13 +256,13 @@
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "c:/Users/sreev/Downloads/Academic_CV/cv-llt.tex" 1781613363 4010 5e3ef361a2cf600f6286260a400f4fd0 ""
-  "comment.cut" 1781613619 39 8b862b5d1dab66322db6c76b2869ef84 "pdflatex"
-  "cv-llt.aux" 1781613620 1383 bc94e4bde143b28ed855a8a1eeac66b8 "pdflatex"
+  "c:/Users/sreev/Downloads/Academic_CV/cv-llt.tex" 1781616703 4088 04f5370fbddbcd5aad7b278c28d73353 ""
+  "comment.cut" 1781616705 39 8b862b5d1dab66322db6c76b2869ef84 "pdflatex"
+  "cv-llt.aux" 1781616705 1383 bc94e4bde143b28ed855a8a1eeac66b8 "pdflatex"
   "cv-llt.bbl" 1781611347 11936 2450307e033166e47d2db6bbbdcc7a4f "biber cv-llt"
-  "cv-llt.out" 1781613619 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv-llt.run.xml" 1781613620 2413 b5a77f9fc197d4e48ab1addfd29182fd "pdflatex"
-  "cv-llt.tex" 1781613363 4010 5e3ef361a2cf600f6286260a400f4fd0 ""
+  "cv-llt.out" 1781616705 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv-llt.run.xml" 1781616705 2413 b5a77f9fc197d4e48ab1addfd29182fd "pdflatex"
+  "cv-llt.tex" 1781616703 4088 04f5370fbddbcd5aad7b278c28d73353 ""
   "education.tex" 1781611476 489 e74bd455bd86eec6974143c837f073d0 ""
   "employment.tex" 1781612099 2291 f5640fd9991e9f64a80331a5ad6f965d ""
   "misc.tex" 1781611063 480 52d1c852492dd87ba0c43fcb7b5ab68c ""
