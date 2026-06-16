@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  16 JUN 2026 15:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  16 JUN 2026 15:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1028,7 +1028,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on in
  (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 12.
-) (skills.tex) (skills.tex) (skills.tex) (skills.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex) [2{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc}] (cv-llt.aux)
+) (research-project.tex) (research-project.tex) (research-project.tex) (research-project.tex) (skills.tex) (skills.tex) (skills.tex) (skills.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex [2{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc}]) [3] (cv-llt.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1040,17 +1040,17 @@ Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39720 strings out of 474424
- 811517 string characters out of 5741739
+ 39737 strings out of 474424
+ 811995 string characters out of 5741739
  1950496 words of memory out of 5000000
- 61408 multiletter control sequences out of 15000+600000
+ 61414 multiletter control sequences out of 15000+600000
  817787 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1188b,1797s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv-llt.pdf (2 pages, 311331 bytes).
+Output written on cv-llt.pdf (3 pages, 313600 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 121 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
