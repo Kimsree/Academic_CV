@@ -424,6 +424,11 @@ INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufonta
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free1regular.tfm
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free1solid.tfm
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free2regular.tfm
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free2solid.tfm
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\inconsolata\t1zi4.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\inconsolata\t1zi4.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\inconsolata\t1zi4.fd
@@ -492,6 +497,7 @@ INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cochineal\coch_mzvjrl.enc
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free2.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\inconsolata\i4-t1-5.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands0.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
@@ -506,9 +512,6 @@ INPUT .\publications.tex
 INPUT .\publications.tex
 INPUT publications.tex
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free2solid.tfm
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-sc-t1.tfm
 INPUT .\research-project.tex
@@ -539,7 +542,6 @@ INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Coc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1--base.tfm
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free2.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Cochineal-Roman-osf-sc-t1.vf
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-sc-t1--base.tfm
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cochineal\coch_rftgut.enc
