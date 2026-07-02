@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  28 JUN 2026 17:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  2 JUL 2026 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1040,7 +1040,7 @@ Package biblatex Warning: Type 'inproceedings' not found on input line 12.
 
 LaTeX Warning: Empty bibliography on input line 12.
 
-) (research-project.tex) (research-project.tex) (research-project.tex) (research-project.tex) (skills.tex) (skills.tex) (skills.tex) (skills.tex [2]) (misc.tex) (misc.tex) (misc.tex) (misc.tex) [3{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc}] (cv-llt.aux)
+) (research-project.tex) (research-project.tex) (research-project.tex) (research-project.tex [2]) (skills.tex) (skills.tex) (skills.tex) (skills.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex) [3{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc}] (cv-llt.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1060,7 +1060,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1188b,1797s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv-llt.pdf (3 pages, 336693 bytes).
+Output written on cv-llt.pdf (3 pages, 337827 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)

@@ -525,6 +525,10 @@ INPUT research-project.tex
 INPUT .\research-project.tex
 INPUT .\research-project.tex
 INPUT research-project.tex
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Cochineal-Italic-osf-swash-t1.vf
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1--base.tfm
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
 INPUT .\skills.tex
 INPUT .\skills.tex
 INPUT skills.tex
@@ -539,10 +543,6 @@ INPUT skills.tex
 INPUT .\skills.tex
 INPUT .\skills.tex
 INPUT skills.tex
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Cochineal-Italic-osf-swash-t1.vf
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1--base.tfm
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
-INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
 INPUT .\misc.tex
 INPUT .\misc.tex
 INPUT misc.tex
