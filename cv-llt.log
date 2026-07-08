@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  7 JUL 2026 14:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  8 JUL 2026 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -861,34 +861,34 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Info: Redefining \oldstylenums on input line 92.
-LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 92.
+LaTeX Info: Redefining \oldstylenums on input line 95.
+LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 95.
  (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\t1cochineal-osf.fd
 File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal-OsF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 92.
+(Font)              scaled to size 10.95pt on input line 95.
  (cv-llt.aux)
 \openout1 = `cv-llt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
  (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count453
@@ -972,9 +972,9 @@ LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
 (Font)              scaled to size 8.0pt on input line 126.
 )
-Package biblatex Info: Reference section=0 on input line 92.
-Package biblatex Info: Reference segment=0 on input line 92.
-Package hyperref Info: Link coloring ON on input line 92.
+Package biblatex Info: Reference section=0 on input line 95.
+Package biblatex Info: Reference segment=0 on input line 95.
+Package hyperref Info: Link coloring ON on input line 95.
  (cv-llt.out) (cv-llt.out)
 \@outlinefile=\write6
 \openout6 = `cv-llt.out'.
@@ -985,55 +985,49 @@ Package hyperref Info: Link coloring ON on input line 92.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 93.
+(Font)              scaled to size 17.28pt on input line 96.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 93.
+(Font)              scaled to size 17.28pt on input line 96.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
-(Font)              `T1/Cabin-TLF/bold/n' on input line 93.
+(Font)              `T1/Cabin-TLF/bold/n' on input line 96.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 93.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 93.
- (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-
-Package fontawesome5 Warning: The requested icon globe has been replaced by
-(fontawesome5)                the solid version
-
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 93.
-(C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-
-Package fontawesome5 Warning: The requested icon phone has been replaced by
-(fontawesome5)                the solid version
-
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 93.
-(C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)
+(Font)              scaled to size 17.28pt on input line 96.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 96.
+ (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 96.
+ (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
+LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> not available
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 96.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 96.
+ (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
+File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
+)
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 96.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 96.
+ (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)
 
 Package fontawesome5 Warning: The requested icon car has been replaced by the
 (fontawesome5)                solid version
 
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 93.
-(C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
-File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
-)
-LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 93.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 93.
- (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 93.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 96.
+(C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 96.
+ (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree3.fd)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 93.
+(Font)              <10.95> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 93.
+(Font)              <8> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 93.
-<photo.jpg, id=33, 405.515pt x 405.515pt>
+(Font)              <6> on input line 96.
+<photo.jpg, id=34, 405.515pt x 405.515pt>
 File: photo.jpg Graphic file (type jpg)
 <use photo.jpg>
-Package pdftex.def Info: photo.jpg  used on input line 93.
+Package pdftex.def Info: photo.jpg  used on input line 96.
 (pdftex.def)             Requested size: 84.50124pt x 84.49858pt.
  (employment.tex) (employment.tex) (employment.tex) (employment.tex) (education.tex) (education.tex) (education.tex) (education.tex [1
 
-{C:/Users/sreev/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc} <./photo.jpg>]) (publications.tex
+{C:/Users/sreev/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free3.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc} <./photo.jpg>]) (publications.tex
 
 Package biblatex Warning: Type 'inproceedings' not found on input line 12.
 
@@ -1052,15 +1046,15 @@ Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39735 strings out of 474424
- 811777 string characters out of 5741739
+ 39750 strings out of 474424
+ 812253 string characters out of 5741739
  1950496 words of memory out of 5000000
- 61411 multiletter control sequences out of 15000+600000
- 818607 words of font info for 83 fonts, out of 8000000 for 9000
+ 61423 multiletter control sequences out of 15000+600000
+ 818362 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1188b,1797s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv-llt.pdf (3 pages, 337276 bytes).
+<C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
+Output written on cv-llt.pdf (3 pages, 328103 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
