@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  26 SEP 2026 12:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  26 SEP 2026 12:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1028,7 +1028,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: photo.jpg Graphic file (type jpg)
 <use photo.jpg>
 Package pdftex.def Info: photo.jpg  used on input line 99.
-(pdftex.def)             Requested size: 84.50124pt x 84.49858pt.
+(pdftex.def)             Requested size: 75.11699pt x 75.11809pt.
  (employment.tex) (employment.tex) (employment.tex) (employment.tex) (education.tex) (education.tex) (education.tex) (education.tex [1
 
 {C:/Users/sreev/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free3.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc} <./photo.jpg>]) (publications.tex
@@ -1038,7 +1038,7 @@ Package biblatex Warning: Type 'inproceedings' not found on input line 12.
 
 LaTeX Warning: Empty bibliography on input line 12.
 
-) (research-project.tex) (research-project.tex) (research-project.tex) (research-project.tex [2]) (skills.tex) (skills.tex) (skills.tex) (skills.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex [3{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc}]) [4] (cv-llt.aux)
+) (research-project.tex) (research-project.tex) (research-project.tex) (research-project.tex [2]) (skills.tex) (skills.tex) (skills.tex) (skills.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex) [3{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc}] (cv-llt.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1050,17 +1050,17 @@ Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39771 strings out of 474424
- 812895 string characters out of 5741739
- 1950496 words of memory out of 5000000
+ 39770 strings out of 474424
+ 812889 string characters out of 5741739
+ 1951496 words of memory out of 5000000
  61438 multiletter control sequences out of 15000+600000
  818623 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1188b,1797s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv-llt.pdf (4 pages, 341757 bytes).
+Output written on cv-llt.pdf (3 pages, 341006 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
