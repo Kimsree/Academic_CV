@@ -431,6 +431,10 @@ INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\inconsolata\t1zi4.f
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\inconsolata\t1zi4.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\inconsolata\t1zi4.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\inconsolata\t1-zi4r-5.tfm
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands1.fd
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands1.fd
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands1.fd
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5brands1.tfm
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree0.fd
@@ -503,6 +507,7 @@ INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Co
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cochineal\coch_mzvjrl.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands0.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\inconsolata\i4-t1-5.enc
+INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands1.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free0.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free1.enc
 INPUT C:\Users\sreev\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free3.enc
