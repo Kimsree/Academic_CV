@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber cv-llt"] 1783426434.42724 "cv-llt.bcf" "cv-llt.bbl" "cv-llt" 1790420881.09948 0
-  "cv-llt.bcf" 1790420880 108549 8de253dfc6e9df4f4a298a4b02498c98 "pdflatex"
+["biber cv-llt"] 1783426434.42724 "cv-llt.bcf" "cv-llt.bbl" "cv-llt" 1790421425.85062 0
+  "cv-llt.bcf" 1790421425 108549 8de253dfc6e9df4f4a298a4b02498c98 "pdflatex"
   "own-bib.bib" 1783426432 814 b84e2a7f1fc805e43681e3992afdb4c8 ""
   (generated)
   "cv-llt.bbl"
   "cv-llt.blg"
   (rewritten before read)
-["pdflatex"] 1790420878.26216 "c:/Users/sreev/Downloads/Academic_CV/cv-llt.tex" "cv-llt.pdf" "cv-llt" 1790420881.10039 0
+["pdflatex"] 1790421423.1098 "c:/Users/sreev/Downloads/Academic_CV/cv-llt.tex" "cv-llt.pdf" "cv-llt" 1790421425.85148 0
   "C:/Users/sreev/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1781602411 150579 00aeb6d1c244dad3123442ab4bb30929 ""
   "C:/Users/sreev/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1714396058 24236006 bd3673d85495ff41f22d48418665b082 ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc" 1695673109 2809 947aec6f9801b5a045e999c93403fba2 ""
@@ -261,19 +261,19 @@
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/sreev/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "c:/Users/sreev/Downloads/Academic_CV/cv-llt.tex" 1790420874 4145 ba6c94e46de95b7f5a531c4ae0930455 ""
-  "comment.cut" 1790420879 39 6e50051ad3637f89a62773d5d7bdb424 "pdflatex"
-  "cv-llt.aux" 1790420880 1304 3b74cccd2bf27445b3e165e251dbcfa2 "pdflatex"
+  "c:/Users/sreev/Downloads/Academic_CV/cv-llt.tex" 1790421384 4145 ba6c94e46de95b7f5a531c4ae0930455 ""
+  "comment.cut" 1790421424 39 6e50051ad3637f89a62773d5d7bdb424 "pdflatex"
+  "cv-llt.aux" 1790421425 1304 033d0dab30fdd03b2bee6484d1826b7a "pdflatex"
   "cv-llt.bbl" 1783426479 7140 84278e6c5eaf9079af2bb149a1cf7f12 "biber cv-llt"
-  "cv-llt.out" 1790420880 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv-llt.run.xml" 1790420880 2413 b5a77f9fc197d4e48ab1addfd29182fd "pdflatex"
-  "cv-llt.tex" 1790420874 4145 ba6c94e46de95b7f5a531c4ae0930455 ""
+  "cv-llt.out" 1790421424 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv-llt.run.xml" 1790421425 2413 b5a77f9fc197d4e48ab1addfd29182fd "pdflatex"
+  "cv-llt.tex" 1790421384 4145 ba6c94e46de95b7f5a531c4ae0930455 ""
   "education.tex" 1781625865 546 e49cf11b9a568a9b91f4a9e398ce2404 ""
   "employment.tex" 1790420730 2477 ecddc1a313ad4fa64589e19c941a0980 ""
   "misc.tex" 1781629752 525 8d90f0e31b4468c1e8e21b5f44d0626d ""
   "photo.jpg" 1770977810 82941 824ec64dc80a1cce01cc792e3f4b84c3 ""
   "publications.tex" 1781610598 611 18388c9db43f7800dea5c1106a0f162e ""
-  "research-project.tex" 1790420759 3068 4a11770acb61ff9bbafe9fe03c00012f ""
+  "research-project.tex" 1790421422 3163 98a4618521bbc2fbfed9d3a2514df43b ""
   "settings.sty" 1781602182 4391 cba372c9cb7c38398feb98fba2b297b2 ""
   "skills.tex" 1783004645 1310 03f20240212a8a5b7860a0a23c8c0dbc ""
   (generated)
