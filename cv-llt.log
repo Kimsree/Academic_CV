@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  3 OCT 2026 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  3 OCT 2026 12:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1010,12 +1010,8 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10.95> no
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 99.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 99.
  (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)
-
-Package fontawesome5 Warning: The requested icon car has been replaced by the
-(fontawesome5)                solid version
-
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 99.
-(C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
+ (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 99.
  (C:\Users\sreev\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree3.fd)
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1050,15 +1046,15 @@ Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39771 strings out of 474424
- 812895 string characters out of 5741739
+ 39768 strings out of 474424
+ 812826 string characters out of 5741739
  1952496 words of memory out of 5000000
- 61438 multiletter control sequences out of 15000+600000
- 818623 words of font info for 83 fonts, out of 8000000 for 9000
+ 61436 multiletter control sequences out of 15000+600000
+ 818364 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1188b,1797s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv-llt.pdf (4 pages, 342269 bytes).
+Output written on cv-llt.pdf (4 pages, 342270 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
