@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  1 OCT 2026 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.29)  3 OCT 2026 12:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1029,9 +1029,9 @@ File: photo.jpg Graphic file (type jpg)
 <use photo.jpg>
 Package pdftex.def Info: photo.jpg  used on input line 99.
 (pdftex.def)             Requested size: 70.4177pt x 70.41548pt.
- (employment.tex) (employment.tex) (employment.tex) (employment.tex) (education.tex) (education.tex) (education.tex) (education.tex) (publications.tex [1
+ (employment.tex) (employment.tex) (employment.tex) (employment.tex) (education.tex) (education.tex) (education.tex) (education.tex [1
 
-{C:/Users/sreev/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free3.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc} <./photo.jpg>]
+{C:/Users/sreev/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free3.enc}{C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc} <./photo.jpg>]) (publications.tex
 
 Package biblatex Warning: Type 'inproceedings' not found on input line 12.
 
@@ -1058,7 +1058,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1188b,1797s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/sreev/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv-llt.pdf (4 pages, 342034 bytes).
+Output written on cv-llt.pdf (4 pages, 342269 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
